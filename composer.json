@@ -1,0 +1,19 @@
+{
+    "name": "ajaygawade/regular-kit",
+    "description": "Regular Kit Testing",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ajaygawade\\RegularKit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ajay Gawade",
+            "email": "ajay.gawade@atomtech.in"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
